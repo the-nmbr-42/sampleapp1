@@ -1,2 +1,3 @@
-#this is a hello-world app
-Hello world
+# sampleapp1
+
+this is a sample app
